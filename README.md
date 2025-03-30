@@ -22,5 +22,6 @@ This project focuses on analyzing [Indian Premier League (IPL)](https://www.iplt
     
 -   **Visualization** : Analytical insights are represented using charts and graphs.
     
+<br>
 
 This end-to-end data pipeline enables deep analysis of IPL statistics, including player performance, team trends, and match outcomes. The project demonstrates the power of **big data processing** with **Databricks and Apache Spark**.
